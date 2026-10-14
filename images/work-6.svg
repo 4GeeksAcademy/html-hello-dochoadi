@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <defs>
+    <linearGradient id="w6g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5b7ba0"/>
+      <stop offset="40%" stop-color="#98c1d9"/>
+      <stop offset="70%" stop-color="#d4956b"/>
+      <stop offset="100%" stop-color="#c48765"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="#e8e0d6"/>
+  <rect x="30" y="30" width="340" height="440" fill="url(#w6g)" opacity="0.6"/>
+  <ellipse cx="200" cy="200" rx="100" ry="50" fill="#98c1d9" opacity="0.4"/>
+  <ellipse cx="200" cy="280" rx="130" ry="60" fill="#d4956b" opacity="0.3"/>
+  <ellipse cx="200" cy="340" rx="90" ry="35" fill="#c48765" opacity="0.25"/>
+  <circle cx="150" cy="180" r="8" fill="#f4d4b0" opacity="0.6"/>
+  <circle cx="220" cy="220" r="5" fill="#f4d4b0" opacity="0.5"/>
+  <text x="200" y="490" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#3d3d3d">Marea Baja</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <defs>
+    <linearGradient id="w1g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d5a7b"/>
+      <stop offset="50%" stop-color="#4a8bb7"/>
+      <stop offset="100%" stop-color="#f4d4b0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="#e8dcc8"/>
+  <rect x="40" y="40" width="320" height="420" fill="url(#w1g)" opacity="0.7"/>
+  <circle cx="150" cy="180" r="60" fill="#f4d4b0" opacity="0.5"/>
+  <rect x="60" y="260" width="280" height="80" fill="#2d5a7b" opacity="0.4"/>
+  <text x="200" y="490" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#3d3d3d">Puerto al Amanecer</text>
+</svg>

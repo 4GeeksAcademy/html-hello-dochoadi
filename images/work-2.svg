@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <defs>
+    <linearGradient id="w2g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5b7ba0"/>
+      <stop offset="50%" stop-color="#98c1d9"/>
+      <stop offset="100%" stop-color="#c48765"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="#f0e6d6"/>
+  <rect x="30" y="30" width="340" height="440" fill="url(#w2g)" opacity="0.6"/>
+  <rect x="100" y="100" width="200" height="150" fill="#c48765" opacity="0.5"/>
+  <circle cx="250" cy="200" r="40" fill="#98c1d9" opacity="0.5"/>
+  <rect x="80" y="300" width="240" height="10" fill="#5b7ba0" opacity="0.4"/>
+  <rect x="120" y="320" width="160" height="8" fill="#5b7ba0" opacity="0.3"/>
+  <text x="200" y="490" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#3d3d3d">Habitación con Mar</text>
+</svg>

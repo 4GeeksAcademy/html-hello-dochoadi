@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <defs>
+    <linearGradient id="w3g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d4956b"/>
+      <stop offset="50%" stop-color="#e8a87c"/>
+      <stop offset="100%" stop-color="#f4e8d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="#faf3eb"/>
+  <rect x="50" y="50" width="300" height="400" fill="url(#w3g)" opacity="0.7"/>
+  <line x1="80" y1="150" x2="320" y2="150" stroke="#c48765" stroke-width="1.5" opacity="0.6"/>
+  <line x1="80" y1="180" x2="300" y2="180" stroke="#c48765" stroke-width="1" opacity="0.4"/>
+  <line x1="80" y1="210" x2="310" y2="210" stroke="#c48765" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="200" cy="300" r="50" fill="#d4956b" opacity="0.3"/>
+  <circle cx="200" cy="300" r="25" fill="#e8a87c" opacity="0.4"/>
+  <text x="200" y="490" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#3d3d3d">Sal Sobre Papel</text>
+</svg>
